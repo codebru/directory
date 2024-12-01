@@ -1,4 +1,4 @@
 baseURL = 'https://www.theplaceplace.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'The Place Place'
 theme = 'holy'
