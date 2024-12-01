@@ -2,7 +2,7 @@
 aptPkgs = ["hugo"]
 
 [ phases.build ]
-cmds = ["hugo --minify"]
+cmds = ["hugo --minify --config hugo.toml"]
 
 [ environment ]
 HUGO_VERSION = "0.112.3"
